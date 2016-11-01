@@ -1,0 +1,2 @@
+# Heat-Transfer
+In this project, we provide the collocation method for natural convection heat transfer equations embedded in porous medium which are of great importance in the design of canisters for nuclear waste disposal. This problem is a non-linear, three-point boundary value problem on semi-infinite interval. We use the orthogonal function namely modified generalized Laguerre functions which is defined as basis function in this approach. We also present the comparison of this work with Runge-Kutta solution.
